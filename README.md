@@ -21,11 +21,13 @@ Built using [aternos-api](https://github.com/sleeyax/aternos-api).
 ## Screenshots
 Starting and stopping the server is fully **asynchronous**. You can query the current status at any time:
 
-![screenshot1](./docs/img/screenshot1.png)
+<img width="350" alt="screenshot1" src="https://github.com/N3bulaX/aternos-bot-minecraft/assets/117851699/aca43b08-1303-4a22-972e-0aa322467e0f">
+
 
 And you'll get notified once the server goes online or offline:
 
-![screenshot2](./docs/img/screenshot2.png)
+<img width="374" alt="screenshot2" src="https://github.com/N3bulaX/aternos-bot-minecraft/assets/117851699/3ce2cd29-bca1-4c51-9b3c-5ed3128d0232">
+
 
 ## Commands
 All available slash commands.
